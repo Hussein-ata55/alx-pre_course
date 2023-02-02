@@ -1,1 +1,9 @@
 git pull origin`
+git push origin
+git checkout 
+git config 
+git config --global user.name
+git config --global user.email
+git add 
+git commit -m
+
